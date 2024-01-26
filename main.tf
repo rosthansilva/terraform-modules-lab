@@ -1,1 +1,4 @@
-main.tf
+resource "random_pet" "server" {
+
+}
+
